@@ -1,0 +1,74 @@
+STUDIES
+=======
+- https://en.wikipedia.org/wiki/Lists_of_mathematics_topics
+- https://en.wikipedia.org/wiki/Computer_science
+
+- TARGET:
+	- Hardware (to be retrieved from the computer itself) limitation on using math formulas.
+		- Standardize and develop a source code library to facilitate this.
+			- HW capacities:
+				- Virtual CPU
+				- Virtual Memory
+				- Virtual Persistent Storage
+				- Virtual Networks
+				- Virtual Screen
+				- Virtual Audio
+				- Virtual Peripherals
+					- Virtual Keyboard
+					- Virtual Pointer
+				- Virtual Desktop
+					- Home Butten (set to any the the OS accepts as default based on URL value)
+					- Rolodex Desktops
+				- Virtual Subscriptions (pull subscription options from network and select into subscription set)
+				- Virtual Library
+				- Virtual Flow Designer (select item on screen to add [immutable copy] into Flow Designer)
+			- Software capacities:
+				- ID Storage
+				- Personal Home
+				- Tokens
+				- Private Sandbox
+				- Channels
+				- Application
+				- Pulled Content
+				- Pushed Messages
+				- Modes:
+					- Programming Mode
+					- Business Mode
+					- Family Mode
+					- Data Input Mode
+					- Publishing Mode
+				- Backup State Transfer
+				- Process Design
+				- Public Information
+				- Repository
+				- User Space
+			- Applications:
+				- Library
+				- Flow Designer
+				- Storage Manager
+				- Token Inspector
+				- Sandbox Manager
+				- Channel Manager
+				- Message Archive
+				- Source Code Manager
+				- Value Manager
+				- Backup Manager
+				- User Space (to manage content of individual external user)
+	- Research Internet:
+		- CPU (one or more, one or more cores)
+		- RAM (s.t.u.d.y.)
+		- HD (one or more, bus-type, HW-type; spinning, SSD, other..)
+		- Networking (?)
+			- USB
+			- Ethernet
+		- Screen
+			- One ore more screens at the same time
+			- Mirror
+			- Desktop (visual across more than one screen)
+		- Audio
+			- Outputs
+				- One or more at the same time
+		- Add-Ons
+			- CD/DVD Drive
+				- Read-Only or Read-Write
+			- Memory-slots
